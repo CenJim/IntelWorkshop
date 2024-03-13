@@ -1,6 +1,5 @@
 # Intel's Workshop
-Welcome to our first ever workshop at the School of Engine
-
+Welcome to our first ever workshop at the School of Enginreeing!
 
 ## Overview
 
