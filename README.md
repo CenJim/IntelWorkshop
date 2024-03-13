@@ -1,18 +1,11 @@
-# IntelWorkshop
-
+# Intel's Workshop
+Welcome to our first ever workshop at the School of Engine
 
 
 ## Overview
 
 This project demonstrates the generation of a square wave using Fourier series approximation. It consists of a C++ program to calculate the wave and a Python script to plot the results.
 
-## Prerequisites (only for local development)
-
-- CMake version 3.10 or higher
-- An installation of the Intel C++ Compiler (icpx)
-- Python 3.x with the following packages:
-  - `numpy`
-  - `matplotlib`
 
 ## Intel Dev Cloud
 
@@ -20,7 +13,15 @@ Here is help and guide on how to get started with Intel's Dev Cloud
 
 [Intel's Dev Cloud help](https://console.cloud.intel.com/docs/index.html)
 
-Ensure that you have the above prerequisites installed on your system before proceeding.
+
+## Prerequisites (for local development only)
+
+- CMake version 3.10 or higher
+- An installation of the Intel C++ Compiler (icpx)
+- Python 3.x with the following packages:
+  - `numpy`
+  - `matplotlib`
+
 
 ## Building and Running the single threading c++ implementation
 
