@@ -18,12 +18,23 @@ Ensure that you have the above prerequisites installed on your system before pro
 
 ## Building and Running the single threading c++ implementation
 
+0. **log into your Intel devCloud and set up your project**
+
+   Start a new terminal 
+   ![Start a new terminal](/InstructionImage/step1.png "step1")
+   Clone the project
+   ```bash
+   git clone https://git.ecdf.ed.ac.uk/s2160679/intelworkshop.git
+   ```   
+   ![clone](/InstructionImage/step2.png "step2")
+
+
+   
 1. **Build your own single-threading implementation**
 
    First, clone the repository to your Cloud environment and run the following command:
 
    ```bash
-   git clone https://git.ecdf.ed.ac.uk/s2160679/intelworkshop.git
    cd c++Implementation
    mkdir build
    cd build
